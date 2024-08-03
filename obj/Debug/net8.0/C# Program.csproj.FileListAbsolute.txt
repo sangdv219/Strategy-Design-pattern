@@ -1,0 +1,14 @@
+/Users/duongsang/Developer/test/C# Program/bin/Debug/net8.0/C# Program
+/Users/duongsang/Developer/test/C# Program/bin/Debug/net8.0/C# Program.deps.json
+/Users/duongsang/Developer/test/C# Program/bin/Debug/net8.0/C# Program.runtimeconfig.json
+/Users/duongsang/Developer/test/C# Program/bin/Debug/net8.0/C# Program.dll
+/Users/duongsang/Developer/test/C# Program/bin/Debug/net8.0/C# Program.pdb
+/Users/duongsang/Developer/test/C# Program/obj/Debug/net8.0/C# Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duongsang/Developer/test/C# Program/obj/Debug/net8.0/C# Program.AssemblyInfoInputs.cache
+/Users/duongsang/Developer/test/C# Program/obj/Debug/net8.0/C# Program.AssemblyInfo.cs
+/Users/duongsang/Developer/test/C# Program/obj/Debug/net8.0/C# Program.csproj.CoreCompileInputs.cache
+/Users/duongsang/Developer/test/C# Program/obj/Debug/net8.0/C# Program.dll
+/Users/duongsang/Developer/test/C# Program/obj/Debug/net8.0/refint/C# Program.dll
+/Users/duongsang/Developer/test/C# Program/obj/Debug/net8.0/C# Program.pdb
+/Users/duongsang/Developer/test/C# Program/obj/Debug/net8.0/C# Program.genruntimeconfig.cache
+/Users/duongsang/Developer/test/C# Program/obj/Debug/net8.0/ref/C# Program.dll
